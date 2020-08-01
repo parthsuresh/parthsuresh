@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Parth, a final year Masters student in Computer Science at the University of Southern California. I am also a Research Assistant at the Imaging Genetics Center at USC, where I work on deep learning for neuroimaging problems like Brain-Age estimation and detection of Alzheimer's disease from MRI scans.
+
+I am interested in deep learning for medical images, computer vision, adversarial machine learning and reinforcement learning; you will find some repositories related to these topics on my account.
+
+Please feel free to reach out to me via :
+- Email : parthsur@usc.edu
+- LinkedIn : https://www.linkedin.com/in/parth-suresh
+
+
 <!--
 **parthsuresh/parthsuresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
