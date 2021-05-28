@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Parth, a final year Masters student in Computer Science at the University of Southern California and an incoming Research Data Scientist at Facebook. I am currently working as a Research Assistant at the Imaging Genetics Center at USC, where I work on deep learning for neuroimaging problems like Brain-Age estimation and detection of Alzheimer's disease from MRI scans.
+I'm Parth, an incoming Research Data Scientist at Facebook. 
 
 I am interested in deep learning for medical images, computer vision, adversarial machine learning and reinforcement learning; you will find some repositories related to these topics on my account.
 
