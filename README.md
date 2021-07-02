@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Parth, an incoming Research Data Scientist at Facebook. 
+I'm Parth, a Research Data Scientist at Facebook. 
 
 I am interested in deep learning for medical images, computer vision, adversarial machine learning and reinforcement learning; you will find some repositories related to these topics on my account.
 
