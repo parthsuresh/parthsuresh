@@ -2,7 +2,7 @@
 
 I'm Parth, a Research Data Scientist at Facebook. 
 
-I am interested in deep learning for medical images, computer vision, adversarial machine learning and reinforcement learning; you will find some repositories related to these topics on my account.
+Some of my topics of interest include Machine Learning for Software Engineering, Natural Language Processing and Computer Vision for Medical Imaging; you will find some repositories related to these topics on my account.
 
 
 <!--
