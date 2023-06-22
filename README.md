@@ -4,7 +4,7 @@ I'm Parth, a Research Data Scientist at Facebook.
 
 Some of my topics of interest include Machine Learning for Software Engineering, Natural Language Processing and Computer Vision for Medical Imaging; you will find some repositories related to these topics on my account.
 
-![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthsuresh)
+![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthsuresh&hide_rank=true)
 
 <!--
 **parthsuresh/parthsuresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
