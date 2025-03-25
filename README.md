@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Parth, a Machine Learning Research Engineer at Scale AI, where I solve a variety of customer problems using Large Language Models (LLMs). Prior to this, I worked as a Research Data Scientist at Meta.
+I'm Parth, a Machine Learning Engineer at Meta, where I work on synthetic methods to generate training data for multimodal models.
 
-Some of my topics of interest include Large Language Models, Developer Productivity, Machine Learning for Software Engineering, Natural Language Processing and Computer Vision for Medical Imaging.
+Some of my topics of interest include Large Language Models, Multimodal Models, Machine Learning for Software Engineering, Natural Language Processing and Computer Vision for Medical Imaging.
 
 ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthsuresh&hide_rank=true)
 
